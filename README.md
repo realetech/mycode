@@ -4,6 +4,8 @@ One Paragraph of your project description goes here. Describe what you're trying
 What is the purpose of putting up this repo?
 I will use this to learn about the concepts of python.
 
+I really also want to learn more about how to version control projects with git
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine
