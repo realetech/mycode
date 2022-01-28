@@ -24,6 +24,7 @@ def parsecsvdata():
         for row in downdata:
             rowdat = (int(row[0]), int(row[1]), int(row[2]), int(row[3]))
             summary.append(rowdat) # add dict to list
+            print(row)
     return summary
 
 def main():
